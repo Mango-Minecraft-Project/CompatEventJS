@@ -1,0 +1,1 @@
+dev.mangojellypudding.compateventjs.kubejs.plugin.CompatEventJS compateventjs
